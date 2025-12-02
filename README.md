@@ -59,7 +59,7 @@ The system compares the measured temperature with preset levels:
 ## 🖥️ Circuit Diagram
 Below is the system connection map (Arduino version + NodeMCU version shown):
 
-![Circuit Diagram](Temperature%20Controlled%20Fan%20Circuit%20Diagram.png)
+![Circuit Diagram](./Temperature%20Controlled%20Fan%20Circuit%20Diagram.png)
 
 ---
 
